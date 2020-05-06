@@ -1,0 +1,1640 @@
+{
+  "expected": {
+    "schalte_die_wohnzimmerlampe_aus.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "wohnzimmerlampe",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "aus",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte die wohnzimmerlampe aus",
+      "raw_text": "schalte die wohnzimmerlampe aus",
+      "recognize_seconds": 0.00043082237243652344,
+      "tokens": [
+        "schalte",
+        "die",
+        "wohnzimmerlampe",
+        "aus"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "die",
+        "wohnzimmerlampe",
+        "aus"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": null,
+      "wav_name": null
+    },
+    "schalte_das_wohnzimmerlampe_aus.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "wohnzimmerlampe",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "aus",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte das wohnzimmerlampe aus",
+      "raw_text": "schalte das wohnzimmerlampe aus",
+      "recognize_seconds": 0.0003592967987060547,
+      "tokens": [
+        "schalte",
+        "das",
+        "wohnzimmerlampe",
+        "aus"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "das",
+        "wohnzimmerlampe",
+        "aus"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": null,
+      "wav_name": null
+    },
+    "ist_das_garagentor_geschlossen.wav": {
+      "intent": {
+        "name": "GetGarageState",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "ist das garagentor geschlossen",
+      "raw_text": "ist das garagentor geschlossen",
+      "recognize_seconds": 0.0002460479736328125,
+      "tokens": [
+        "ist",
+        "das",
+        "garagentor",
+        "geschlossen"
+      ],
+      "raw_tokens": [
+        "ist",
+        "das",
+        "garagentor",
+        "geschlossen"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": null,
+      "wav_name": null
+    },
+    "ist_das_garagentor_offen.wav": {
+      "intent": {
+        "name": "GetGarageState",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "ist das garagentor offen",
+      "raw_text": "ist das garagentor offen",
+      "recognize_seconds": 0.0002772808074951172,
+      "tokens": [
+        "ist",
+        "das",
+        "garagentor",
+        "offen"
+      ],
+      "raw_tokens": [
+        "ist",
+        "das",
+        "garagentor",
+        "offen"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": null,
+      "wav_name": null
+    },
+    "wie_heiß_ist_es.wav": {
+      "intent": {
+        "name": "GetTemperature",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "wie heiß ist es",
+      "raw_text": "wie heiß ist es",
+      "recognize_seconds": 0.00024056434631347656,
+      "tokens": [
+        "wie",
+        "heiß",
+        "ist",
+        "es"
+      ],
+      "raw_tokens": [
+        "wie",
+        "heiß",
+        "ist",
+        "es"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": null,
+      "wav_name": null
+    },
+    "wie_spät_ist_es.wav": {
+      "intent": {
+        "name": "GetTime",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "wie spät ist es",
+      "raw_text": "wie spät ist es",
+      "recognize_seconds": 0.00023794174194335938,
+      "tokens": [
+        "wie",
+        "spät",
+        "ist",
+        "es"
+      ],
+      "raw_tokens": [
+        "wie",
+        "spät",
+        "ist",
+        "es"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": null,
+      "wav_name": null
+    },
+    "schalte_die_garagenlicht_ein.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "garagenlicht",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "ein",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte die garagenlicht ein",
+      "raw_text": "schalte die garagenlicht ein",
+      "recognize_seconds": 0.0004088878631591797,
+      "tokens": [
+        "schalte",
+        "die",
+        "garagenlicht",
+        "ein"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "die",
+        "garagenlicht",
+        "ein"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": null,
+      "wav_name": null
+    },
+    "schalte_das_wohnzimmerlampe_ein.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "wohnzimmerlampe",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "ein",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte das wohnzimmerlampe ein",
+      "raw_text": "schalte das wohnzimmerlampe ein",
+      "recognize_seconds": 0.0003497600555419922,
+      "tokens": [
+        "schalte",
+        "das",
+        "wohnzimmerlampe",
+        "ein"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "das",
+        "wohnzimmerlampe",
+        "ein"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": null,
+      "wav_name": null
+    },
+    "schalte_die_garagenlicht_aus.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "garagenlicht",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "aus",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte die garagenlicht aus",
+      "raw_text": "schalte die garagenlicht aus",
+      "recognize_seconds": 0.0004322528839111328,
+      "tokens": [
+        "schalte",
+        "die",
+        "garagenlicht",
+        "aus"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "die",
+        "garagenlicht",
+        "aus"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": null,
+      "wav_name": null
+    },
+    "wie_ist_die_temperatur.wav": {
+      "intent": {
+        "name": "GetTemperature",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "wie ist die temperatur",
+      "raw_text": "wie ist die temperatur",
+      "recognize_seconds": 0.0002295970916748047,
+      "tokens": [
+        "wie",
+        "ist",
+        "die",
+        "temperatur"
+      ],
+      "raw_tokens": [
+        "wie",
+        "ist",
+        "die",
+        "temperatur"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": null,
+      "wav_name": null
+    },
+    "schalte_das_garagenlicht_ein.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "garagenlicht",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "ein",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte das garagenlicht ein",
+      "raw_text": "schalte das garagenlicht ein",
+      "recognize_seconds": 0.0003476142883300781,
+      "tokens": [
+        "schalte",
+        "das",
+        "garagenlicht",
+        "ein"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "das",
+        "garagenlicht",
+        "ein"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": null,
+      "wav_name": null
+    },
+    "schalte_die_wohnzimmerlampe_ein.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "wohnzimmerlampe",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "ein",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte die wohnzimmerlampe ein",
+      "raw_text": "schalte die wohnzimmerlampe ein",
+      "recognize_seconds": 0.0004050731658935547,
+      "tokens": [
+        "schalte",
+        "die",
+        "wohnzimmerlampe",
+        "ein"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "die",
+        "wohnzimmerlampe",
+        "ein"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": null,
+      "wav_name": null
+    },
+    "sag_mir_die_uhrzeit.wav": {
+      "intent": {
+        "name": "GetTime",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "sag mir die uhrzeit",
+      "raw_text": "sag mir die uhrzeit",
+      "recognize_seconds": 0.0002415180206298828,
+      "tokens": [
+        "sag",
+        "mir",
+        "die",
+        "uhrzeit"
+      ],
+      "raw_tokens": [
+        "sag",
+        "mir",
+        "die",
+        "uhrzeit"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": null,
+      "wav_name": null
+    },
+    "schalte_das_garagenlicht_aus.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "garagenlicht",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "aus",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte das garagenlicht aus",
+      "raw_text": "schalte das garagenlicht aus",
+      "recognize_seconds": 0.0003693103790283203,
+      "tokens": [
+        "schalte",
+        "das",
+        "garagenlicht",
+        "aus"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "das",
+        "garagenlicht",
+        "aus"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": null,
+      "wav_name": null
+    },
+    "wie_kalt_ist_es.wav": {
+      "intent": {
+        "name": "GetTemperature",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "wie kalt ist es",
+      "raw_text": "wie kalt ist es",
+      "recognize_seconds": 0.0002384185791015625,
+      "tokens": [
+        "wie",
+        "kalt",
+        "ist",
+        "es"
+      ],
+      "raw_tokens": [
+        "wie",
+        "kalt",
+        "ist",
+        "es"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": null,
+      "wav_name": null
+    }
+  },
+  "actual": {
+    "schalte_die_wohnzimmerlampe_aus.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "wohnzimmerlampe",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "aus",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte die wohnzimmerlampe aus",
+      "raw_text": "schalte die wohnzimmerlampe aus",
+      "recognize_seconds": 0.003086574997723801,
+      "tokens": [
+        "schalte",
+        "die",
+        "wohnzimmerlampe",
+        "aus"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "die",
+        "wohnzimmerlampe",
+        "aus"
+      ],
+      "wav_seconds": 2.2660625,
+      "transcribe_seconds": 8.22252352400028,
+      "speech_confidence": null,
+      "wav_name": "schalte_die_wohnzimmerlampe_aus.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "schalte",
+          "die",
+          "wohnzimmerlampe",
+          "aus"
+        ],
+        "hypothesis": [
+          "schalte",
+          "die",
+          "wohnzimmerlampe",
+          "aus"
+        ],
+        "differences": [
+          "schalte",
+          "die",
+          "wohnzimmerlampe",
+          "aus"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "schalte_das_wohnzimmerlampe_aus.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "wohnzimmerlampe",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "aus",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte das wohnzimmerlampe aus",
+      "raw_text": "schalte das wohnzimmerlampe aus",
+      "recognize_seconds": 0.002819776997057488,
+      "tokens": [
+        "schalte",
+        "das",
+        "wohnzimmerlampe",
+        "aus"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "das",
+        "wohnzimmerlampe",
+        "aus"
+      ],
+      "wav_seconds": 2.38725,
+      "transcribe_seconds": 8.489941159998125,
+      "speech_confidence": null,
+      "wav_name": "schalte_das_wohnzimmerlampe_aus.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "schalte",
+          "das",
+          "wohnzimmerlampe",
+          "aus"
+        ],
+        "hypothesis": [
+          "schalte",
+          "das",
+          "wohnzimmerlampe",
+          "aus"
+        ],
+        "differences": [
+          "schalte",
+          "das",
+          "wohnzimmerlampe",
+          "aus"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "ist_das_garagentor_geschlossen.wav": {
+      "intent": {
+        "name": "GetGarageState",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "ist das garagentor geschlossen",
+      "raw_text": "ist das garagentor geschlossen",
+      "recognize_seconds": 0.002418452000711113,
+      "tokens": [
+        "ist",
+        "das",
+        "garagentor",
+        "geschlossen"
+      ],
+      "raw_tokens": [
+        "ist",
+        "das",
+        "garagentor",
+        "geschlossen"
+      ],
+      "wav_seconds": 2.213125,
+      "transcribe_seconds": 8.40944486599983,
+      "speech_confidence": null,
+      "wav_name": "ist_das_garagentor_geschlossen.wav",
+      "expected_intent_name": "GetGarageState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "ist",
+          "das",
+          "garagentor",
+          "geschlossen"
+        ],
+        "hypothesis": [
+          "ist",
+          "das",
+          "garagentor",
+          "geschlossen"
+        ],
+        "differences": [
+          "ist",
+          "das",
+          "garagentor",
+          "geschlossen"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "ist_das_garagentor_offen.wav": {
+      "intent": {
+        "name": "GetGarageState",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "ist das garagentor offen",
+      "raw_text": "ist das garagentor offen",
+      "recognize_seconds": 0.0019511700011207722,
+      "tokens": [
+        "ist",
+        "das",
+        "garagentor",
+        "offen"
+      ],
+      "raw_tokens": [
+        "ist",
+        "das",
+        "garagentor",
+        "offen"
+      ],
+      "wav_seconds": 1.950125,
+      "transcribe_seconds": 7.898209461996885,
+      "speech_confidence": null,
+      "wav_name": "ist_das_garagentor_offen.wav",
+      "expected_intent_name": "GetGarageState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "ist",
+          "das",
+          "garagentor",
+          "offen"
+        ],
+        "hypothesis": [
+          "ist",
+          "das",
+          "garagentor",
+          "offen"
+        ],
+        "differences": [
+          "ist",
+          "das",
+          "garagentor",
+          "offen"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "wie_heiß_ist_es.wav": {
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "text": "wie ist ist es",
+      "raw_text": "wie ist ist es",
+      "recognize_seconds": 0,
+      "tokens": [],
+      "raw_tokens": [],
+      "wav_seconds": 1.372375,
+      "transcribe_seconds": 6.599639503998333,
+      "speech_confidence": null,
+      "wav_name": "wie_heiß_ist_es.wav",
+      "expected_intent_name": "GetTemperature",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "wie",
+          "heiß",
+          "ist",
+          "es"
+        ],
+        "hypothesis": [
+          "wie",
+          "ist",
+          "ist",
+          "es"
+        ],
+        "differences": [
+          "wie",
+          "heiß:ist",
+          "ist",
+          "es"
+        ],
+        "words": 4,
+        "errors": 1,
+        "matches": 3,
+        "substitutions": 1,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0.25
+      }
+    },
+    "wie_spät_ist_es.wav": {
+      "intent": {
+        "name": "GetTime",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "wie spät ist es",
+      "raw_text": "wie spät ist es",
+      "recognize_seconds": 0.002249689001473598,
+      "tokens": [
+        "wie",
+        "spät",
+        "ist",
+        "es"
+      ],
+      "raw_tokens": [
+        "wie",
+        "spät",
+        "ist",
+        "es"
+      ],
+      "wav_seconds": 1.3946875,
+      "transcribe_seconds": 6.586589271999401,
+      "speech_confidence": null,
+      "wav_name": "wie_spät_ist_es.wav",
+      "expected_intent_name": "GetTime",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "wie",
+          "spät",
+          "ist",
+          "es"
+        ],
+        "hypothesis": [
+          "wie",
+          "spät",
+          "ist",
+          "es"
+        ],
+        "differences": [
+          "wie",
+          "spät",
+          "ist",
+          "es"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "schalte_die_garagenlicht_ein.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "garagenlicht",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "ein",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte die garagenlicht ein",
+      "raw_text": "schalte die garagenlicht ein",
+      "recognize_seconds": 0.003026439000677783,
+      "tokens": [
+        "schalte",
+        "die",
+        "garagenlicht",
+        "ein"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "die",
+        "garagenlicht",
+        "ein"
+      ],
+      "wav_seconds": 2.08375,
+      "transcribe_seconds": 7.839270927001053,
+      "speech_confidence": null,
+      "wav_name": "schalte_die_garagenlicht_ein.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "schalte",
+          "die",
+          "garagenlicht",
+          "ein"
+        ],
+        "hypothesis": [
+          "schalte",
+          "die",
+          "garagenlicht",
+          "ein"
+        ],
+        "differences": [
+          "schalte",
+          "die",
+          "garagenlicht",
+          "ein"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "schalte_das_wohnzimmerlampe_ein.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "wohnzimmerlampe",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "ein",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte das wohnzimmerlampe ein",
+      "raw_text": "schalte das wohnzimmerlampe ein",
+      "recognize_seconds": 0.002016317997913575,
+      "tokens": [
+        "schalte",
+        "das",
+        "wohnzimmerlampe",
+        "ein"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "das",
+        "wohnzimmerlampe",
+        "ein"
+      ],
+      "wav_seconds": 2.28075,
+      "transcribe_seconds": 8.410652624999784,
+      "speech_confidence": null,
+      "wav_name": "schalte_das_wohnzimmerlampe_ein.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "schalte",
+          "das",
+          "wohnzimmerlampe",
+          "ein"
+        ],
+        "hypothesis": [
+          "schalte",
+          "das",
+          "wohnzimmerlampe",
+          "ein"
+        ],
+        "differences": [
+          "schalte",
+          "das",
+          "wohnzimmerlampe",
+          "ein"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "schalte_die_garagenlicht_aus.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "garagenlicht",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "aus",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte die garagenlicht aus",
+      "raw_text": "schalte die garagenlicht aus",
+      "recognize_seconds": 0.002232693001133157,
+      "tokens": [
+        "schalte",
+        "die",
+        "garagenlicht",
+        "aus"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "die",
+        "garagenlicht",
+        "aus"
+      ],
+      "wav_seconds": 2.1773125,
+      "transcribe_seconds": 8.35343581199777,
+      "speech_confidence": null,
+      "wav_name": "schalte_die_garagenlicht_aus.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "schalte",
+          "die",
+          "garagenlicht",
+          "aus"
+        ],
+        "hypothesis": [
+          "schalte",
+          "die",
+          "garagenlicht",
+          "aus"
+        ],
+        "differences": [
+          "schalte",
+          "die",
+          "garagenlicht",
+          "aus"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "wie_ist_die_temperatur.wav": {
+      "intent": {
+        "name": "GetTemperature",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "wie ist die temperatur",
+      "raw_text": "wie ist die temperatur",
+      "recognize_seconds": 0.0027640500011330005,
+      "tokens": [
+        "wie",
+        "ist",
+        "die",
+        "temperatur"
+      ],
+      "raw_tokens": [
+        "wie",
+        "ist",
+        "die",
+        "temperatur"
+      ],
+      "wav_seconds": 1.8011875,
+      "transcribe_seconds": 7.670254786997248,
+      "speech_confidence": null,
+      "wav_name": "wie_ist_die_temperatur.wav",
+      "expected_intent_name": "GetTemperature",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "wie",
+          "ist",
+          "die",
+          "temperatur"
+        ],
+        "hypothesis": [
+          "wie",
+          "ist",
+          "die",
+          "temperatur"
+        ],
+        "differences": [
+          "wie",
+          "ist",
+          "die",
+          "temperatur"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "schalte_das_garagenlicht_ein.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "garagenlicht",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "ein",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte das garagenlicht ein",
+      "raw_text": "schalte das garagenlicht ein",
+      "recognize_seconds": 0.0029409679991658777,
+      "tokens": [
+        "schalte",
+        "das",
+        "garagenlicht",
+        "ein"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "das",
+        "garagenlicht",
+        "ein"
+      ],
+      "wav_seconds": 2.1569375,
+      "transcribe_seconds": 8.303307760997996,
+      "speech_confidence": null,
+      "wav_name": "schalte_das_garagenlicht_ein.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "schalte",
+          "das",
+          "garagenlicht",
+          "ein"
+        ],
+        "hypothesis": [
+          "schalte",
+          "das",
+          "garagenlicht",
+          "ein"
+        ],
+        "differences": [
+          "schalte",
+          "das",
+          "garagenlicht",
+          "ein"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "schalte_die_wohnzimmerlampe_ein.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "wohnzimmerlampe",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "ein",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte die wohnzimmerlampe ein",
+      "raw_text": "schalte die wohnzimmerlampe ein",
+      "recognize_seconds": 0.0023884230031399056,
+      "tokens": [
+        "schalte",
+        "die",
+        "wohnzimmerlampe",
+        "ein"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "die",
+        "wohnzimmerlampe",
+        "ein"
+      ],
+      "wav_seconds": 2.1929375,
+      "transcribe_seconds": 8.413841073001095,
+      "speech_confidence": null,
+      "wav_name": "schalte_die_wohnzimmerlampe_ein.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "schalte",
+          "die",
+          "wohnzimmerlampe",
+          "ein"
+        ],
+        "hypothesis": [
+          "schalte",
+          "die",
+          "wohnzimmerlampe",
+          "ein"
+        ],
+        "differences": [
+          "schalte",
+          "die",
+          "wohnzimmerlampe",
+          "ein"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "sag_mir_die_uhrzeit.wav": {
+      "intent": {
+        "name": "GetTime",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "sag mir die uhrzeit",
+      "raw_text": "sag mir die uhrzeit",
+      "recognize_seconds": 0.0012203429978399072,
+      "tokens": [
+        "sag",
+        "mir",
+        "die",
+        "uhrzeit"
+      ],
+      "raw_tokens": [
+        "sag",
+        "mir",
+        "die",
+        "uhrzeit"
+      ],
+      "wav_seconds": 1.627,
+      "transcribe_seconds": 2.2336605620002956,
+      "speech_confidence": null,
+      "wav_name": "sag_mir_die_uhrzeit.wav",
+      "expected_intent_name": "GetTime",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "sag",
+          "mir",
+          "die",
+          "uhrzeit"
+        ],
+        "hypothesis": [
+          "sag",
+          "mir",
+          "die",
+          "uhrzeit"
+        ],
+        "differences": [
+          "sag",
+          "mir",
+          "die",
+          "uhrzeit"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "schalte_das_garagenlicht_aus.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "garagenlicht",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "aus",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "schalte das garagenlicht aus",
+      "raw_text": "schalte das garagenlicht aus",
+      "recognize_seconds": 0.0009865780011750758,
+      "tokens": [
+        "schalte",
+        "das",
+        "garagenlicht",
+        "aus"
+      ],
+      "raw_tokens": [
+        "schalte",
+        "das",
+        "garagenlicht",
+        "aus"
+      ],
+      "wav_seconds": 2.2655625,
+      "transcribe_seconds": 2.5629380069985928,
+      "speech_confidence": null,
+      "wav_name": "schalte_das_garagenlicht_aus.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "schalte",
+          "das",
+          "garagenlicht",
+          "aus"
+        ],
+        "hypothesis": [
+          "schalte",
+          "das",
+          "garagenlicht",
+          "aus"
+        ],
+        "differences": [
+          "schalte",
+          "das",
+          "garagenlicht",
+          "aus"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "wie_kalt_ist_es.wav": {
+      "intent": {
+        "name": "GetTemperature",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "wie kalt ist es",
+      "raw_text": "wie kalt ist es",
+      "recognize_seconds": 0.0008183749996533152,
+      "tokens": [
+        "wie",
+        "kalt",
+        "ist",
+        "es"
+      ],
+      "raw_tokens": [
+        "wie",
+        "kalt",
+        "ist",
+        "es"
+      ],
+      "wav_seconds": 1.3629375,
+      "transcribe_seconds": 1.9784136119997129,
+      "speech_confidence": null,
+      "wav_name": "wie_kalt_ist_es.wav",
+      "expected_intent_name": "GetTemperature",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "wie",
+          "kalt",
+          "ist",
+          "es"
+        ],
+        "hypothesis": [
+          "wie",
+          "kalt",
+          "ist",
+          "es"
+        ],
+        "differences": [
+          "wie",
+          "kalt",
+          "ist",
+          "es"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    }
+  },
+  "num_wavs": 15,
+  "num_words": 60,
+  "num_intents": 15,
+  "num_entities": 16,
+  "correct_transcriptions": 14,
+  "correct_intent_names": 14,
+  "correct_words": 59,
+  "correct_entities": 16,
+  "correct_intent_and_entities": 14,
+  "transcription_accuracy": 0.9833333333333333,
+  "intent_accuracy": 0.9333333333333333,
+  "entity_accuracy": 1,
+  "intent_entity_accuracy": 0.9333333333333333,
+  "average_transcription_speedup": 0.35604587633241347
+}

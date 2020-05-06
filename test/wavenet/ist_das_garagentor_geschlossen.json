@@ -1,0 +1,1 @@
+{"text": "ist das garagentor geschlossen", "intent": {"name": "GetGarageState", "confidence": 1.0}, "entities": [], "raw_text": "ist das garagentor geschlossen", "tokens": ["ist", "das", "garagentor", "geschlossen"], "raw_tokens": ["ist", "das", "garagentor", "geschlossen"], "slots": {}, "intents": [], "recognize_seconds": 0.0002460479736328125}

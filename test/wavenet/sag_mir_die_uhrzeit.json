@@ -1,0 +1,1 @@
+{"text": "sag mir die uhrzeit", "intent": {"name": "GetTime", "confidence": 1.0}, "entities": [], "raw_text": "sag mir die uhrzeit", "tokens": ["sag", "mir", "die", "uhrzeit"], "raw_tokens": ["sag", "mir", "die", "uhrzeit"], "slots": {}, "intents": [], "recognize_seconds": 0.0002415180206298828}

@@ -1,0 +1,1 @@
+{"text": "wie spät ist es", "intent": {"name": "GetTime", "confidence": 1.0}, "entities": [], "raw_text": "wie spät ist es", "tokens": ["wie", "spät", "ist", "es"], "raw_tokens": ["wie", "spät", "ist", "es"], "slots": {}, "intents": [], "recognize_seconds": 0.00023794174194335938}
